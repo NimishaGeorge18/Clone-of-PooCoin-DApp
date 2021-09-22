@@ -12,6 +12,7 @@ FRONTEND_TEAM 7
  Clone of PooCoin DApp. POOCOIN is used to unlock features on the PooCoin DApp for
 portfolio management and token price charting. It shouldn’t be exactly the same but
 all functionality should be covered. 
+
  # Technologies Used:
  React
 
